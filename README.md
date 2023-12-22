@@ -31,7 +31,7 @@ Feel free to check out my repositories for more exciting projects and contributi
 
 ## Connect with Me
 
-- 📧 Email: [your.email@example.com](mailto:johnwick720720@gmail.com)
+- 📧 Email: [JohnWick](mailto:johnwick720720@gmail.com)
 - 🐦 Twitter: [@YourTwitterHandle]()
 - 🌐 Portfolio: [YourPortfolio.com]()
 
