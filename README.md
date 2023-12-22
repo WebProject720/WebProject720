@@ -15,24 +15,24 @@ Here are some of the technologies I work with:
 - 💻 HTML, CSS, JavaScript
 - 🚀 React.js, Vue.js
 - ⚙️ Node.js, Express.js
-- 🗃️ MongoDB, MySQL
-- 🎨 UI/UX Design: Figma, Adobe XD
+- 🗃️ MongoDB, Mongoose
+- 🎨 UI/UX Design: Figma, Adobe Illustrator
 - 🔧 Git, GitHub
 
 ## Projects
 
 Explore some of my notable projects:
 
-1. [Project One](https://github.com/WebProject720/GalaxyGlance) - Brief description.
-2. [Project Two](https://github.com/WebProject720/PI-LIFE) - Brief description.
-3. [Project Three](https://github.com/WebProject720/Calculator) - Brief description.
+1. [GalaxyGlance](https://github.com/WebProject720/GalaxyGlance) - Brief description.
+2. [PI-LIFE](https://github.com/WebProject720/PI-LIFE) - Brief description.
+3. [Calculator](https://github.com/WebProject720/Calculator) - Brief description.
 
 Feel free to check out my repositories for more exciting projects and contributions!
 
 ## Connect with Me
 
 - 📧 Email: [JohnWick](mailto:johnwick720720@gmail.com)
-- 🐦 Twitter: [@YourTwitterHandle]()
-- 🌐 Portfolio: [YourPortfolio.com]()
+- 🐦 Twitter: [AvailableSoon]()
+- 🌐 Portfolio: [AvailableSoon]()
 
 Let's connect and collaborate on innovative projects! 🚀
