@@ -22,10 +22,10 @@ Here are some of the technologies I work with:
 ## Projects
 
 Explore some of my notable projects:
-
-1. [GalaxyGlance](https://github.com/WebProject720/GalaxyGlance) - Brief description.
-2. [PI-LIFE](https://github.com/WebProject720/PI-LIFE) - Brief description.
-3. [Calculator](https://github.com/WebProject720/Calculator) - Brief description.
+1. [Lost and Found](https://github.com/WebProject720/Lost_Found)
+2. [GalaxyGlance](https://github.com/WebProject720/GalaxyGlance) 
+3. [PI-LIFE](https://github.com/WebProject720/PI-LIFE) 
+4. [Calculator](https://github.com/WebProject720/Calculator) 
 
 Feel free to check out my repositories for more exciting projects and contributions!
 
